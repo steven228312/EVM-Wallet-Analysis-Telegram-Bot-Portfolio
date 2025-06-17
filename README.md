@@ -3,7 +3,7 @@
 A powerful Telegram bot for deep analysis of EVM-compatible wallets, uncovering trading behavior, profitability, and token deployment insights in the DeFi ecosystem.
 
 <p align="center">
-  <img src="https://github.com/stevendev0822/EVM-Wallet-Analysis-Telegram-Bot-Portfolio/blob/main/EVMWalletAnalysis.gif" alt="Main Menu">
+  <img src="https://github.com/steven228312/EVM-Wallet-Analysis-Telegram-Bot-Portfolio/blob/main/EVMWalletAnalysis.gif" alt="Main Menu">
 </p>
 
 ## 🔍 Overview
@@ -38,7 +38,7 @@ This Telegram bot enables users to analyze wallet profitability, holding duratio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/stevendev0822/EVM-Wallet-Analysis-Telegram-Bot.git
+git clone https://github.com/steven228312/EVM-Wallet-Analysis-Telegram-Bot.git
 ```
 
 2. Navigate into the project directory:
@@ -137,10 +137,10 @@ This project is licensed under the [MIT License](./LICENSE)
 ## 📞 Contact Information
 
 - Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
-- GitHub: [Steven Leal(stevendev0822)](https://github.com/stevendev0822)
-- Telegram: [@stevendev0822](https://t.me/stevendev0822)
-- Twitter: [@stevendev0822](https://twitter.com/stevendev0822)
-- Instagram: [@stevendev0822](https://www.instagram.com/stevendev0822/)
+- GitHub: [Steven Leal(steven228312)](https://github.com/steven228312)
+- Telegram: [@steven228312](https://t.me/steven228312)
+- Twitter: [@steven228312](https://twitter.com/steven228312)
+- Instagram: [@steven228312](https://www.instagram.com/steven228312/)
 
 ## 🔑 Keywords
 wallet analysis, DeFi, EVM, Ethereum, Binance Smart Chain, Base, Telegram bot, on-chain analytics, wallet profitability, token deployment, crypto, trading behavior, smart contracts, blockchain, crypto analysis, wallet tracking, DeFi tools, crypto investments, token analysis, crypto trading
